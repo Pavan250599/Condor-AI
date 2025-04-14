@@ -4,7 +4,7 @@
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/yourusername/stock-prediction-api.git
+   git clone https://github.com/Pavan250599/Condor-AI.git
    cd stock-prediction-api
 
 2. Install dependencies

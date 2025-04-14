@@ -1,4 +1,4 @@
-## Setup Instructions
+#### Setup Instructions
 
 ### Local Development
 
@@ -13,13 +13,13 @@
 
 3. Set environment variables
 
-   # Edit .env with your API key
+   Edit .env with your API key
 
  4. Run application
    
    uvicorn app.main:app --reload
 
-##Docker Deployment
+###Docker Deployment
 
 1. Build image
 
